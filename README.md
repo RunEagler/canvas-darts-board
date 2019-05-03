@@ -35,5 +35,9 @@ yarn run test:e2e
 yarn run test:unit
 ```
 
+### View
+
+https://github.com/RunEagler/canvas-darts-board/issues/1#issue-439969546
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
